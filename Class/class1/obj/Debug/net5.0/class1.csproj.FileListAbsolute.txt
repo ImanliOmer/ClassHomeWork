@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.exe
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.deps.json
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.runtimeconfig.json
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.dll
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\bin\Debug\net5.0\class1.pdb
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.AssemblyInfo.cs
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.dll
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\refint\class1.dll
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.pdb
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\class1.genruntimeconfig.cache
+C:\Users\Omer\Desktop\ConstructurHW\Class\class1\obj\Debug\net5.0\ref\class1.dll
